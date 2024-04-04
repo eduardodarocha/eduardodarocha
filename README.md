@@ -11,7 +11,8 @@
   <img align="center" alt="Nodejs logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   
   ##
-  <a href="https://app.daily.dev/Eduardo_Rocha"><img src="https://api.daily.dev/devcards/de7869e54371408d91d2817022903284.png?r=dim" width="400" alt="Eduardo da Rocha's Dev Card"/></a>
+  
+  <a href="https://app.daily.dev/eduardo_rocha"><img src="https://api.daily.dev/devcards/v2/Q2mVcucL6.png?r=pe4&type=default" width="356" alt="Eduardo da Rocha's Dev Card"/></a>
   
   <div>
   <a href = "mailto: eduardomfrocha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
